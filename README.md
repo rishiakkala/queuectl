@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![QueueCTL Logo](https://via.placeholder.com/150x150/20B2AA/FFFFFF?text=QueueCTL)
+
 **A Professional CLI-Based Background Job Orchestration System**
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
@@ -18,7 +20,9 @@
 
 Watch QueueCTL in action! This video demonstrates all major features including concurrent workers, priority queues, retry mechanisms, and real-time monitoring.
 
-**▶️ [Click here to watch the demo video]([https://your-video-link-here.com](https://drive.google.com/file/d/1seo_7GdMnpIttjEhjwhRpnaDUZQjKf_o/view?usp=sharing))**
+### 🎥 **[▶️ Click Here to Watch Demo Video](https://drive.google.com/file/d/1seo_7GdMnpIttjEhjwhRpnaDUZQjKf_o/view?usp=sharing)**
+
+> **📹 Video covers:** Installation, job enqueuing, single & parallel workers, priority queues, retry mechanism, monitoring, and dashboard demo.
 
 ---
 
@@ -683,6 +687,19 @@ queuectl dashboard start
 - View metrics and logs
 - Auto-refresh every 3 seconds
 
+#### Dashboard Screenshot
+
+![QueueCTL Dashboard](screenshots/dashboard.png)
+
+> **📸 To add your screenshot:** Take a screenshot of the dashboard at `http://localhost:5000` and save it as `screenshots/dashboard.png` in your project folder.
+
+**Dashboard Features:**
+- 📊 Real-time job count by state
+- 📋 Sortable job list with filters
+- 🔄 Auto-refresh every 3 seconds
+- 🎨 Clean, professional UI
+- 📱 Responsive design
+
 ---
 
 ## 🔄 Persistence & Restart Behavior
@@ -806,6 +823,9 @@ queuectl/
 │   └── logs/                   # Job output logs
 │       ├── job1.log
 │       └── job2.log
+│
+├── screenshots/                 # Screenshots for documentation
+│   └── dashboard.png           # Dashboard screenshot
 │
 ├── venv/                        # Virtual environment
 │   └── Scripts/
