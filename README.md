@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![QueueCTL Logo](https://via.placeholder.com/150x150/20B2AA/FFFFFF?text=QueueCTL)
 
 **A Professional CLI-Based Background Job Orchestration System**
 
@@ -689,7 +688,8 @@ queuectl dashboard start
 
 #### Dashboard Screenshot
 
-![QueueCTL Dashboard](screenshots/dashboard.png)
+![QueueCTL Dashboard](media/dashboard1.png)
+![QueueCTL Dashboard](media/dashboard2.png)
 
 > **📸 To add your screenshot:** Take a screenshot of the dashboard at `http://localhost:5000` and save it as `screenshots/dashboard.png` in your project folder.
 
