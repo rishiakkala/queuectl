@@ -691,8 +691,6 @@ queuectl dashboard start
 ![QueueCTL Dashboard](media/dashboard1.png)
 ![QueueCTL Dashboard](media/dashboard2.png)
 
-> **📸 To add your screenshot:** Take a screenshot of the dashboard at `http://localhost:5000` and save it as `screenshots/dashboard.png` in your project folder.
-
 **Dashboard Features:**
 - 📊 Real-time job count by state
 - 📋 Sortable job list with filters
@@ -919,51 +917,6 @@ queuectl worker start --count 2
 - Sanitize command inputs
 - Use for trusted, internal workloads only
 - Add authentication if deploying dashboard publicly
-
----
-
-## 🤝 Contributing
-
-Contributions welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Built with Python 3 and SQLite
-- CLI powered by argparse
-- Web dashboard using Flask
-- Inspired by Celery, Redis Queue, and similar job queue systems
-
----
-
-## 📞 Support
-
-For issues, questions, or feature requests:
-
-- **GitHub Issues:** [https://github.com/yourusername/queuectl/issues](https://github.com/yourusername/queuectl/issues)
-- **Email:** your.email@example.com
-
----
-
-## 🎓 Author
-
-**Your Name**
-- B.Tech Computer Science Student
-- Specialization: AI/ML, Reinforcement Learning
-- Project: Built for internship/portfolio demonstration
 
 ---
 
