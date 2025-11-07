@@ -1,0 +1,5 @@
+# requirements.txt
+# No core dependencies needed (uses only Python stdlib)
+
+# Optional: For dashboard feature
+flask>=2.0.0
