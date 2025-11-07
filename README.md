@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![QueueCTL Logo](https://via.placeholder.com/150x150/20B2AA/FFFFFF?text=QueueCTL)
-
 **A Professional CLI-Based Background Job Orchestration System**
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
@@ -20,15 +18,7 @@
 
 Watch QueueCTL in action! This video demonstrates all major features including concurrent workers, priority queues, retry mechanisms, and real-time monitoring.
 
-**▶️ [Click here to watch the demo video](https://your-video-link-here.com)**
-
-> **Note:** Replace `https://your-video-link-here.com` with your actual video link (YouTube, Google Drive, etc.)
-
-### Embed Video (if using YouTube)
-
-```markdown
-[![QueueCTL Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
+**▶️ [Click here to watch the demo video]([https://your-video-link-here.com](https://drive.google.com/file/d/1seo_7GdMnpIttjEhjwhRpnaDUZQjKf_o/view?usp=sharing))**
 
 ---
 
