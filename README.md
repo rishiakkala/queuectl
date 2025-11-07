@@ -919,11 +919,3 @@ queuectl worker start --count 2
 - Add authentication if deploying dashboard publicly
 
 ---
-
-<div align="center">
-
-**⭐ If you found this project useful, please consider giving it a star! ⭐**
-
-Made with ❤️ using Python | Windows | SQLite
-
-</div>
